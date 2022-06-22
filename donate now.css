@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(255,255,255);
+
+}
+.img{
+    background-color:rgb(178,26,38);
+    color:wheat;
+    margin-bottom: 2%;
+
+}
+nav{
+    /* text-align: right; */
+    font-size: 20px;
+    margin-top: -2%;
+    background-color: rgb(217, 32, 47);
+    height: 80px;
+}
+.imgn{
+    margin-left: 40%;
+}
+.gift{
+    margin-left: 35%;
+}
+.add{
+    margin-left: 35%;
+}
+.last{
+    text-align: center;
+    font-size: 13px;
+    background-color:rgb(60,58,54);
+    height: 400px;
+}
+.last h1{
+    /* margin-bottom: 15%; */
+    color: white;
+}
+.last h2{
+    color: red;
+    margin-top: 3%;
+}
+.mpesa{
+    margin-left: 15%;
+}
+.Donate{
+    margin-left: 15%;
+}
+.amazon{
+    margin-left: 15%;
+   
+}
+.three{
+    margin-left: 15%;
+   
+}
+.footer{
+    margin-top: -31%;
+    margin-left: 5%;
+}
